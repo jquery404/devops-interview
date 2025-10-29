@@ -110,7 +110,7 @@ jobs:
         run: |
           max_attempts=5
           attempt=0
-          PORT=3000
+          PORT=3001
           
           echo "Verifying deployment health..."
           
